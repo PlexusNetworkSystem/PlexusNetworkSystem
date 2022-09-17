@@ -1,4 +1,5 @@
 ![profile counter](https://komarev.com/ghpvc/?username=PlexusNetworkSystem&label=Profile+Views&color=3E9FEF)
+![Discord](https://img.shields.io/discord/939514422613901352?style=for-the-badge)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dkVgDuS5AY) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plexus_system) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_YNbfCMFmSeYsK2_i1HR-Q) 
 
