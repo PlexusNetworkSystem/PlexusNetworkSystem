@@ -13,4 +13,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=PlexusNetworkSystem&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PlexusNetworkSystem&icon=2&color=2)](https://visitcount.itsvg.in)
