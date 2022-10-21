@@ -30,7 +30,6 @@ body {
     float: right;
     flex: content;
     display: inline-block;
-    background-color: black;
     border-style: hidden;
   }
   .div_left {
