@@ -6,7 +6,7 @@ Hi, 👋 We are Plexus Network Team and that is our github page
 🌐 Socials Links
 ================
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dkVgDuS5AY) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plexus_system) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_YNbfCMFmSeYsK2_i1HR-Q) [![Servers](https://img.shields.io/static/v1?label=Plexus&message=Servers&color=blue)](https://plexusnetworksystem.github.io/Servers/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dkVgDuS5AY) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/plexusnetworkacademy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_YNbfCMFmSeYsK2_i1HR-Q) [![Servers](https://img.shields.io/static/v1?label=Plexus&message=Servers&color=blue)](https://plexusnetworksystem.github.io/Servers/)
 
 
 
