@@ -30,3 +30,37 @@ Hi, 👋 We are Plexus Network Team and that is our github page
 ![](https://github-profile-trophy.vercel.app/?username=PlexusNetworkSystem&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 * * *
+<table align="center">
+ <tr>
+    <th>Language</th>
+    <th>Framework</th>
+    <th>Level</th>
+    <th>Experience</th>
+ </tr>
+ 
+ <tr>
+  <th align="left">C/C++</th>
+  <th>-</th>
+  <th>%90</th>
+  <th>6 Year</th>
+ </tr>
+ <tr>
+  <th align="left">C#</th>
+  <th>.Net</th>
+  <th>%55</th>
+  <th>3 Year</th>
+ </tr>
+ <tr>
+  <th align="left">BASH</th>
+  <th>-</th>
+  <th>%100</th>
+  <th>2 Year</th>
+ </tr>
+ <tr>
+  <th align="left">Python</th>
+  <th>Socket/numpy/openCV</th>
+  <th>%40</th>
+  <th>2 Year</th>
+ </tr>
+ <tr>
+</table>
